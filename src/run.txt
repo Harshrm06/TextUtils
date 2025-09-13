@@ -1,0 +1,5 @@
+cd textutils
+npm run deploy
+
+cd textutils
+npm start
